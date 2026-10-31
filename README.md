@@ -1,5 +1,5 @@
 # gitc
 <html>
-  hahahahaha
+  DARK FANTASY
   <\html>
-<title> yaaaaas <\title>
+<title> Welcome to My GITHub<\title>
